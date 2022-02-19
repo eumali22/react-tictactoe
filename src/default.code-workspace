@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "..\\..\\..\\react-table-interface"
+		},
+		{
+			"path": "..\\..\\..\\dt-mock-api"
 		}
 	],
 	"settings": {}
