@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "..\\..\\..\\dt-mock-api"
+		},
+		{
+			"path": "..\\..\\..\\react-outside-click-handler"
 		}
 	],
 	"settings": {}
